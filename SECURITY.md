@@ -5,7 +5,7 @@
 
 If you have encountered a potential security vulnerability in this project,
 please report it to us at <chow.eufung@gatech.edu> or directly to maintainer <MAINTAINER'S_EMAIL>. For sensitive email communications, please use
-[Maintainer's PGP]. We will work with you to
+[Link to Maintainer's PGP Key]. We will work with you to
 verify the vulnerability and patch it.
 
 **Please do not report security vulnerabilities through public GitHub issues.**
